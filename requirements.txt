@@ -5,6 +5,4 @@ scikit-learn
 ipywidgets>=7.5,<8
 sympy
 pyproj
-json
-math
 voila
