@@ -4,5 +4,6 @@ seaborn
 scikit-learn
 ipywidgets>=7.5,<8
 sympy
+xlrd
 pyproj
 voila
